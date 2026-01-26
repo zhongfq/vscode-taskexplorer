@@ -1,13 +1,14 @@
 # Task Explorer - Tasks and Scripts Visual Control
 
-| ![logo](res/img/logo-bl.png) | M.I.A.... A Short Story and an apology... From this extension's inception many years ago, to the time my beloved daughter and I were working on it together in 2022 and 2023 with her high hopes of it turning into a licensable product (i.e. *$$$* in her eyes), to the time life changed 4ever when I lost her in April of '23 and became undoubtedly 4everbroken, to now the present day... after the overwhelming pain of each and every day had started to seem normalized, what we had last worked on together I was finally able to pick back up and continue, and now the initial preview versions have started to be released. I sincerely apologize to all users for the absence of any development over the last few years |
-| ------ | --------- |
+| M.I.A. ![logo](res/img/logo-bl.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|A Short Story and an apology... From this extension's inception many years ago, to the time my beloved daughter and I were working on it together in 2022 and 2023 with her high hopes of it turning into a licensable product (i.e. *$$$* in her eyes), to the time life changed 4ever when I lost her in April of '23 and became undoubtedly 4everbroken, to now the present day... after the overwhelming pain of each and every day had started to seem normalized, what we had last worked on together I finally picked back up to continue on, and now the initial preview versions have been released. I sincerely apologize to all users for the absence of any development over the last few years |
+| :----: | :------------ |
 
-[![home](https://img.shields.io/badge/org-spmhome.io-0556d7.svg)](https://www.spmhome.io) [![vcs](https://img.shields.io/badge/vcs-gitlab-4287f5.svg)](https://gitlab.spmhome.io) [![projecttype](https://img.shields.io/badge/category-apps-4287f5.svg)](https://www.spmhome.io) [![projectlang](https://img.shields.io/badge/language-typescript-4287f5.svg)](https://www.spmhome.io) [![webpack-wrap](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-webpack--wrap-4287f5.svg)](https://gitlab.spmhome.io/spmhome/ci/webpack-wrap) [![app-publisher](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-app--publisher-4287f5.svg)](https://gitlab.spmhome.io/spmhome/ci/app-publisher) [![eslint-config](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-eslint--config-4287f5.svg)](https://gitlab.spmhome.io/spmhome/utils/eslint-config)
+[![home](https://img.shields.io/badge/org-spmhome.io-0556d7.svg)](https://www.spmhome.io) [![vcs](https://img.shields.io/badge/vcs-gitlab-4287f5.svg)](https://gitlab.spmhome.io) [![projecttype](https://img.shields.io/badge/category-apps-4287f5.svg)](https://www.spmhome.io) [![projectframework](https://img.shields.io/badge/framework-vsc%20react-4287f5.svg)](https://www.spmhome.io) [![projectlang](https://img.shields.io/badge/language-typescript-4287f5.svg)](https://www.spmhome.io) [![webpack-wrap](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-webpack--wrap-4287f5.svg)](https://gitlab.spmhome.io/spmhome/ci/webpack-wrap) [![app-publisher](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-app--publisher-4287f5.svg)](https://gitlab.spmhome.io/spmhome/ci/app-publisher) [![eslint-config](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-eslint--config-4287f5.svg)](https://gitlab.spmhome.io/spmhome/utils/eslint-config)
 
 [![package_json version](https://img.shields.io/github/package-json/v/spmeesseman/vscode%2dtaskexplorer.svg?logo=github)](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer) [![Installs](https://img.shields.io/visual-studio-marketplace/i/spmeesseman.vscode-taskexplorer.svg)](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer) [![Downloads](https://img.shields.io/visual-studio-marketplace/d/spmeesseman.vscode-taskexplorer.svg)](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer) [![LastReleased](https://img.shields.io/visual-studio-marketplace/last-updated/spmeesseman.vscode-taskexplorer)](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplorer) [![Ratings](https://img.shields.io/visual-studio-marketplace/r/spmeesseman.vscode-taskexplorer.svg)](https://marketplace.visualstudio.com/items?itemName=spmeesseman.vscode-taskexplore&ssr=false#review-details) [![GitHub issues open](https://img.shields.io/github/issues-raw/spmeesseman/vscode%2dtaskexplorer.svg?logo=github)](https://github.com/spmeesseman/vscode-taskexplorer/issues) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/spmeesseman/vscode%2dtaskexplorer.svg?logo=github)](https://github.com/spmeesseman/vscode-taskexplorer/issues)
 
-![src0](res/img/sources/npm.png) ![src1](res/img/sources/nodejs.png) ![src2](res/img/sources/python.png) ![src3](res/img/sources/workspace.png) ![src4](res/img/sources/ts.png) ![src5](res/img/sources/ant.png) ![src6](res/img/sources/yarn.png) ![src7](res/img/sources/eslint.png) ![src8](res/img/sources/grunt.png) ![src9](res/img/sources/gulp.png) ![src10](res/img/sources/ruby.png) ![src11](res/img/sources/powershell.png) ![src12](res/img/sources/gradle.png) ![src13](res/img/sources/cmake.png) ![src14](res/img/sources/make.png) ![src15](res/img/sources/bat.png) ![src16](res/img/sources/bash.png) ![src17](res/img/sources/nsis.png) ![src18](res/img/sources/webpack.png) ![src19](res/img/sources/maven.png)
+|![src0](res/img/sources/npm.png) &nbsp; &nbsp;&nbsp; ![src1](res/img/sources/nodejs.png) &nbsp; &nbsp;&nbsp; ![src2](res/img/sources/python.png) &nbsp; &nbsp;&nbsp; ![src3](res/img/sources/workspace.png) &nbsp; &nbsp;&nbsp; ![src4](res/img/sources/ts.png) &nbsp; &nbsp; ![src5](res/img/sources/ant.png) &nbsp;&nbsp; ![src6](res/img/sources/yarn.png) &nbsp; &nbsp;&nbsp; ![src7](res/img/sources/eslint.png) &nbsp; &nbsp;&nbsp; ![src8](res/img/sources/grunt.png) &nbsp; &nbsp; ![src9](res/img/sources/gulp.png) &nbsp; &nbsp; ![src10](res/img/sources/ruby.png) &nbsp; &nbsp;&nbsp; ![src11](res/img/sources/powershell.png) &nbsp;&nbsp;  &nbsp;&nbsp; ![src12](res/img/sources/gradle.png) &nbsp; &nbsp;&nbsp; ![src13](res/img/sources/cmake.png) &nbsp;&nbsp; &nbsp;&nbsp; ![src14](res/img/sources/make.png) &nbsp;&nbsp; &nbsp;&nbsp; ![src15](res/img/sources/bat.png) &nbsp;&nbsp; &nbsp;&nbsp; ![src16](res/img/sources/bash.png) &nbsp;&nbsp; &nbsp;&nbsp; ![src17](res/img/sources/nsis.png) &nbsp;&nbsp; &nbsp;&nbsp; ![src18](res/img/sources/webpack.png) &nbsp;&nbsp; &nbsp;&nbsp; ![src19](res/img/sources/maven.png)|
+| :---: |
 
 ## Description
 
@@ -18,13 +19,13 @@ Provides configurable treeviews that display all supported tasks and scripts, or
 - [Task Explorer - Tasks and Scripts Visual Control](#task-explorer---tasks-and-scripts-visual-control)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
-  - [Screenshots by Version](#screenshots-by-version)
   - [Requirements](#requirements)
   - [Version 3](#version-3)
   - [Licensing](#licensing)
+  - [Recommended External Provider Settings](#recommended-external-provider-settings)
+  - [Using Groups with a Separator](#using-groups-with-a-separator)
   - [Configuring Global Excludes, Apache Ant and Bash Globs](#configuring-global-excludes-apache-ant-and-bash-globs)
   - [Ant and Gulp Self-Provided Tasks](#ant-and-gulp-self-provided-tasks)
-  - [Using Groups with a Separator](#using-groups-with-a-separator)
   - [Internally Provided Tasks vs. VSCode Provided Tasks](#internally-provided-tasks-vs-vscode-provided-tasks)
   - [Running Shell Scripts](#running-shell-scripts)
   - [Task Icon Animations](#task-icon-animations)
@@ -37,20 +38,6 @@ Provides configurable treeviews that display all supported tasks and scripts, or
   - [Rate It - Leave Some Stars](#rate-it---leave-some-stars)
   - [Thank You](#thank-you)
   - [Pre-V3 Release Features History](#pre-v3-release-features-history)
-
-## Screenshots by Version
-
-| Latest Explorer Tray                    | Sidebar View (v1.7)                       | Task Type Groups (v1.13)                  |
-| ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| ![ss0](res/readme/treeview1.png) | ![ss1](res/readme/taskview2.png) | ![ss2](res/readme/taskview3.png) |
-
-| Grunt/Gulp in Subfolders (v1.14)          | Npm Commands (v1.16)                      | Task Groupings (v1.23)                    |
-| ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| ![ss4](res/readme/taskview4.png) | ![ss5](res/readme/taskview5.png) | ![ss6](res/readme/taskview6.png) |
-
-| Multi-Level Task Groupings (v1.29)        | Run with Args, No Terminal (1.30)         | Last Tasks (1.25) Favorites (2.0)         |
-| ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| ![ss7](res/readme/taskview7.png) | ![ss8](res/readme/taskview8.png) | ![ss9](res/readme/taskview9.png) |
 
 ## Requirements
 
@@ -88,6 +75,60 @@ Note that this release and all upcoming **preview** releases are fully functiona
 
 When the extension's **Preview** phase is over and the licensing scheme becomes active, please consider [purchasing a cheap++ license](https://www.spmhome.io/payment/taskexplorer/vsc) to unlock all features and support both continued development and my beloved never-forgotten daughter's grand plan.  During the **Preview** phase licensing is not active and the extension is fully functional.
 
+## Recommended External Provider Settings
+
+It is recommended to set the npm and tsc task providers to the internal *Task Explorer* providers, especially the npm provider where startup time can be ~ 20x-25x faster then the vscode shipped provider due to a random significant lag, seeminglt 1 out of every 2 or 3 tasks ran... was not able to determine the cause but using the task Explorer npm provider resolves the issue completely.
+
+As it would be a little inappropriate to auto-change any settings external to this extension's own, the following settings are all highly recommended to be changed in the User settings from the installed defaults:
+
+    {   ...,
+        "npm.autoDetect": "off",
+        "gradle.autoDetect": "off",
+        "grunt.autoDetect": "off",
+        "gulp.autoDetect": "off",
+        "taskexplorer.useNpmProvider": true,
+        "taskexplorer.useTscProvider": true
+        ...
+    }
+
+## Using Groups with a Separator
+
+| Version 3                                 | Version 2.0                               | Version1.30                             |
+| ----------------------------------------- | ----------------------------------------- | --------------------------------------- |
+| ![ss7](res/readme/treeview1.png) | ![ss8](res/readme/taskview9.png) | ![ss9](res/readme/taskview8.png) |
+
+The *Groups With Separator* option is an extra level of task groupings that can be made based on a configured separation character in the script or task name.  This option can be turned on/off with the *Group With Seperator* `'Settings -> Extensions -> Task Explorer -> Grouping'` options in the VSC Settings, the default is *on* and the default separator is a dash/hyphen ("-").
+
+For example, consider 10 npm tasks, 5 of which all start with the string *dev-*, 5 of which start with the string *prod-*.  Prior to the grouping feature, this would create 10 individual task nodes within the main npm task node in the task tree:
+
+    npm
+        dev-build
+        dev-build-server
+        dev-build-themes
+        dev-cp-from-binVV
+        dev-clean
+        prod-build
+        prod-build-server
+        prod-build-themes
+        prod-cp-from-bin
+        prod-clean
+
+By enabling the *Group With Separator* option in Settings (the default) and setting the *Group Separator* to a dash ("-", the default) two new grouped nodes would be created underneath the main npm node, one called *dev* and the other called *prod*.  Each of these two sub-nodes of course would contain the respective *dev-* and *prod-* scripts/tasks, minus the prepended group name:
+
+    npm
+        dev
+            build
+            build-server
+            build-themes
+            cp-from-bin
+            clean
+        prod
+            build
+            build-server
+            build-themes
+            cp-from-bin
+            clean
+
 ## Configuring Global Excludes, Apache Ant and Bash Globs
 
 The setting *exclude* defines a file/directory pattern or an array of file/directory patterns to ignore using *Glob Patterns* or a valid *File URI*.  The setting applies to all script types.  For example:
@@ -111,40 +152,6 @@ In the same way as for **Ant** tasks, **Bash** scripts without extensions can be
 ## Ant and Gulp Self-Provided Tasks
 
 By default, a custom parser is used to locate Ant and Gulp tasks in respective files.  This may be fine in most cases, but in cases where the script and/or build files become complex, or there is something in the file that was not coded into the parser, you can use the *ant* and *gulp* programs themselves to find their own tasks.  Note however that turning this on has a negative performance impact when refreshing and providing tasks to the VSCode Task Host.
-
-## Using Groups with a Separator
-
-The *Groups With Separator* option is an extra level of task groupings that can be made based on a configured separation character in the script or task name.  This option can be turned on/off with the *Group With Seperator* `'Settings -> Extensions -> Task Explorer -> Grouping'` options in the VSC Settings, the default is *on* and the default separator is a dash/hyphen ("-").
-
-For example, consider 10 npm tasks, 5 of which all start with the string *dev-*, 5 of which start with the string *prod-*.  Prior to Version 1.23, this would create 10 individual task nodes within the main npm task node in the task tree:
-
-    npm
-        dev-build
-        dev-build-server
-        dev-build-themes
-        dev-cp-from-binVV
-        dev-clean
-        prod-build
-        prod-build-server
-        prod-build-themes
-        prod-cp-from-bin
-        prod-clean
-
-By enabling the *Group With Separator* option in Settings and setting the *Group Separator* to a dash ("-") two new grouped nodes would be created underneath the main npm node, one called *dev* and the other called *prod*.  Each of these two sub-nodes of course would contain the respective *dev-* and *prod-* scripts/tasks, minus the prepended group name:
-
-    npm
-        dev
-            build
-            build-server
-            build-themes
-            cp-from-bin
-            clean
-        prod
-            build
-            build-server
-            build-themes
-            cp-from-bin
-            clean
 
 ## Internally Provided Tasks vs. VSCode Provided Tasks
 
